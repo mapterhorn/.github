@@ -8,4 +8,6 @@
 
 Public terrain tiles for interactive web map visualizations
 
-https://mapterhorn.com
+Main Repository: https://github.com/mapterhorn/mapterhorn
+
+Website: https://mapterhorn.com
